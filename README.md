@@ -1,2 +1,2 @@
 # DenoHOG
-Denoising High-Order Graph Clustering
+The source code of paper "Denoising High-Order Graph Clustering"
